@@ -191,4 +191,6 @@ Unique identifier for the Stratification Category column data
 21.	Column 21 – StrateficationID1
 Unique identifier for the Stratification column data
 
+Python data cleaning reference: https://machinelearningmastery.com/handle-missing-data-python/
+
 
